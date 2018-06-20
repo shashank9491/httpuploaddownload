@@ -1,11 +1,4 @@
 # used with windows and Linux - not defined python environment - python version 2.7.11
-#
-# Copyright (C) 2011-2012 Intel Mobile Communications GmbH All rights reserved.
-#
-# This document contains proprietary information belonging to IMC.
-# Passing on and copying of this document, use and communication of its
-# contents is not permitted without prior written authorization.
-#
 # HTTP Upload.
 #
 # This module is used to download from and upload to a server
@@ -51,7 +44,6 @@ except ImportError:
 
 __version__ = '0.1'
 __author__ = 'Shashank Devaraj'
-__copyright__ = 'Intel Mobile Communications'
 __date__ = '02nd April 2017'
 
 # global variables
